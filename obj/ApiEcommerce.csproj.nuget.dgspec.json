@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maude\\Videos\\CursoNET-Definitivo\\ApiEcommerce\\ApiEcommerce.csproj": {}
+    "D:\\Cursos\\CursoNetCore\\Curso-DevTalles-BestPracti-NET\\ApiEcommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maude\\Videos\\CursoNET-Definitivo\\ApiEcommerce\\ApiEcommerce.csproj": {
+    "D:\\Cursos\\CursoNetCore\\Curso-DevTalles-BestPracti-NET\\ApiEcommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maude\\Videos\\CursoNET-Definitivo\\ApiEcommerce\\ApiEcommerce.csproj",
+        "projectUniqueName": "D:\\Cursos\\CursoNetCore\\Curso-DevTalles-BestPracti-NET\\ApiEcommerce.csproj",
         "projectName": "ApiEcommerce",
-        "projectPath": "C:\\Users\\maude\\Videos\\CursoNET-Definitivo\\ApiEcommerce\\ApiEcommerce.csproj",
+        "projectPath": "D:\\Cursos\\CursoNetCore\\Curso-DevTalles-BestPracti-NET\\ApiEcommerce.csproj",
         "packagesPath": "C:\\Users\\maude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maude\\Videos\\CursoNET-Definitivo\\ApiEcommerce\\obj\\",
+        "outputPath": "D:\\Cursos\\CursoNetCore\\Curso-DevTalles-BestPracti-NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
